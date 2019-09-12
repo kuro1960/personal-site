@@ -112,6 +112,12 @@ hr {
   margin-left: 35px;
 }
 
+.corrosion-img {
+  width: 25%;
+  float: left;
+  margin-right: 35px;
+}
+
 .contact-me {
   width: 40%;
   margin-left: auto;
