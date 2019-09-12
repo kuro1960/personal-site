@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #769fcd;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #4f81c7;
+  margin-bottom: 30px;
+  font-size: 2em;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #769fcd;
+}
+
+p {
+  line-height: 150%;
+  color: #40514E;
+  font-size: 1.1em;
+}
+
+hr {
+  border-style: dotted;
+  width: 4%;
+  border-width: 6px 0 0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  BORDER-COLOR: #E0E0E0;
+}
+
+.top-container {
+  background-color: #d6e6f2;
+  position: relative;
+  padding-top: 200px;
+}
+
+.top-cloud {
+  width: 150px;
+  height: auto;
+  position: absolute;
+  top: 100px;
+  right: 20%;
+}
+
+.bottom-cloud {
+  width: 150px;
+  height: auto;
+  position: absolute;
+  bottom: 300px;
+  left: 18%;
+}
+
+.mountain {
+  width: 300px;
+  height: auto;
+  position: relative;
+  top: 46px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  background-color: #f7fbfc;
+  padding-bottom: 100px;
+}
+
+.profile {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-img {
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+
+
+.skills {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill-row {
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.soil-img {
+  width: 25%;
+  float: left;
+  margin-right: 35px;
+}
+
+.water-img {
+  width: 25%;
+  float: right;
+  margin-left: 35px;
+}
+
+.contact-me {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  color: #293462;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: none;
+  background: #769FCD;
+  display: inline-block;
+  margin-top: 10px;
+
+}
+.btn:hover {
+  color: #14396A;
+  background: #4f81c7;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  background-color: #d6e6f2;
+  padding-bottom: 30px;
+}
+
+.footer-link {
+  font-size: 18px;
+  color: #4f81c7;
+  text-decoration: none;
+  margin: auto 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+  color: #769fcd;
+}
+
+.copyright {
+  font-size: 12px;
+}
